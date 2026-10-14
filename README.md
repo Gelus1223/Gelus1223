@@ -66,8 +66,8 @@ Sou apaixonado por tecnologia, desenvolvimento de software e criação de soluç
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" alt="Laravel" title="Laravel"/>-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" title="C++"/>
   <img 
-   alt="React Native"
-   title="React Native"
+   alt="Spring Boot"
+   title="Spring Boot"
    width="40"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
